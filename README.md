@@ -13,6 +13,16 @@
   <img src="img/fabout.jpeg">
 </picture>
 
+<h1>Contact Us Page</h1>
+<picture>
+  <img src="img/fcontact.jpeg">
+</picture>
+
+<h1>Login Page</h1>
+<picture>
+  <img src="img/flogin.jpeg">
+</picture>
+
 <h1>Sign Up Page</h1>
 <picture>
   <img src="img/fsignup.jpeg">
