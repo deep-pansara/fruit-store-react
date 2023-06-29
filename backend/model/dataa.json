@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Yellow Apple",
+        "category": "fruits",
+        "description": "Yellow apple trees are being developed in Asia, the Netherlands, France and many other countries and locales",
+        "price": 200,
+        "discount": 25,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/1.png"
+    },
+    {
+        "name": "Strawberry",
+        "category": "fruits",
+        "description": "The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit.",
+        "price": 300,
+        "discount": 30,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/10.png"
+    },
+    {
+        "name": "Watermelon",
+        "category": "fruits",
+        "description": "Watermelon (Citrullus lanatus) is a flowering plant species of the Cucurbitaceae family and the name of its edible fruit. A scrambling and trailing vine-like plant, it is a highly cultivated fruit worldwide, with more than 1,000 varieties",
+        "price": 50,
+        "discount": 10,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/11.png"
+    },
+    {
+        "name": "Lychee",
+        "category": "fruits",
+        "description": "Lychee, also known as alligator-strawberry, is a tropical fruit that belongs to the soapberry family, Sapindaceae.0 It is native to southern China and can grow in certain warm regions of the US like Florida and Hawaii.",
+        "price": 110,
+        "discount": 20,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/15.png"
+    },
+    {
+        "name": "Custard apple",
+        "category": "fruits",
+        "description": "Custard apple is a common name for several fruits and may refer to Annonaceae, the custard apple family, which includes the following species referred to as custard apples: Asimina triloba, the pawpaw, a deciduous tree, with a range from southern Ontario to Texas and Florida",
+        "price": 90,
+        "discount": 15,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/16.png"
+    },
+    {
+        "name": "Peach",
+        "category": "fruits",
+        "description": "The peach (Prunus persica) is a deciduous tree first domesticated and cultivated in Zhejiang province of Eastern China. It bears edible juicy fruits with various characteristics, most called peaches and others (the glossy-skinned, non-fuzzy varieties), nectarines.",
+        "price": 280,
+        "discount": 35,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/2.png"
+    },
+    {
+        "name": "Guava",
+        "category": "fruits",
+        "description": "Guava is a tropical fruit native to Mexico, Central America, the Caribbean, and northern South America.01 Its skin is typically yellow or light green, while its flesh is usually deep red or a vibrant shade of pink",
+        "price": 40,
+        "discount": 5,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/21.png"
+    },
+    {
+        "name": "Dragon fruit",
+        "category": "fruits",
+        "description": "Dragon fruit is a food that grows on a climbing cactus called hylocereus, found in tropical regions around the world.0 It is also known as pitaya or dragon fruit and is native to southern Mexico and along the Pacific coasts of Guatemala, Costa Rica, and El Salvador.",
+        "price": 160,
+        "discount": 25,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/22.png"
+    },
+    {
+        "name": "Green Bananas",
+        "category": "fruits",
+        "description": "Green bananas are firmer than yellow bananas. Their texture has sometimes been described as waxy. Composition. Green bananas are higher in starches.",
+        "price": 60,
+        "discount": 18,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/27.png"
+    },
+    {
+        "name": "Black grapes",
+        "category": "fruits",
+        "description": " Black grapes benefits will sway you to add them to your diet. They are one of the most sought-after varieties of grapes. Their rich glossy appearance and delicious sweet taste have made them a consumer favorite.",
+        "price": 120,
+        "discount": 28,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/7.png"
+    },
+    {
+        "name": "Dates",
+        "category": "dryfruits",
+        "description": "Dates are the fruit of the date palm tree and are grown in many tropical regions of the world.2 They are among the sweetest fruits in the world and are available in several varieties",
+        "price": 170,
+        "discount": 50,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/8.png"
+    },
+    {
+        "name": "Kiwi",
+        "category": "fruits",
+        "description": "kiwi, (Actinidia deliciosa), also called kiwifruit or Chinese gooseberry, woody vine and edible fruit of the family Actinidiaceae. The plant is native to mainland China and Taiwan and is also grown commercially in New Zealand and California.",
+        "price": 500,
+        "discount": 7,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/9.png"
+    },
+    {
+        "name": "Carrot",
+        "category": "vegetables",
+        "description": "carrot is a biennial plant in the umbellifer family, Apiaceae. It is a root vegetable that grows a rosette of leaves while building up the enlarged taproot.",
+        "price": 50,
+        "discount": 40,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/1-carrot-png-image.png"
+    },
+    {
+        "name": "Cucumber",
+        "category": "vegetables",
+        "description": "cucumber (Cucumis sativus) is a widely-cultivated creeping vine plant in the family Cucurbitaceae that bears cylindrical to spherical fruits, which are used as culinary vegetables. Considered an annual plant, there are three main types of cucumber—slicing, pickling, and seedless",
+        "price": 40,
+        "discount": 20,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/11-cucumber-png-image-picture-download.png"
+    },
+    {
+        "name": "Broccoli",
+        "category": "vegetables",
+        "description": "Broccoli is a green vegetable that belongs to the Brassica oleracea plant species.01 It is classified in the Italica cultivar group of the species Brassica oleracea.",
+        "price": 70,
+        "discount": 15,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/12-broccoli-png-image-with-transparent-background.png"
+    },
+    {
+        "name": "Pumpkin",
+        "category": "vegetables",
+        "description": "pumpkin is a vernacular term for mature winter squash of species and varieties in the genus Cucurbita that has culinary and cultural significance but no agreed upon botanical or scientific meaning",
+        "price": 100,
+        "discount": 5,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/14-2-pumpkin-png-file.png"
+    },
+    {
+        "name": "Brinjal",
+        "category": "vegetables",
+        "description": "Brinjal, also known as eggplant, aubergine, or baingan, is a plant species in the nightshade family Solanaceae.012 It is widely cultivated worldwide for its edible fruit, which is high in nutrition and commonly consumed as a vegetable",
+        "price": 70,
+        "discount": 30,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/14-eggplant-png-images-download.png"
+    },
+    {
+        "name": "Green capsicum",
+        "category": "vegetables",
+        "description": "Green capsicum, also known as green bell peppers or capsicum, is the unripe fruit of the Capsicum annuum plant.023 They have crisp, shiny, moist flesh, a seeded core, and a grassy, slightly bitter flavor.",
+        "price": 210,
+        "discount": 5,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/16-green-pepper-png-image.png"
+    },
+    {
+        "name": "Corn",
+        "category": "vegetables",
+        "description": "Corn, also known as maize, is a starchy vegetable that comes as kernels on a cob, covered by a husk.",
+        "price": 230,
+        "discount": 45,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/23-corn-png-image.png"
+    },
+    {
+        "name": "Cauliflower",
+        "category": "vegetables",
+        "description": "Cauliflower is one of several vegetables in the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae (or mustard) family",
+        "price": 160,
+        "discount": 25,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/24836-4-cauliflower-transparent-image.png"
+    },
+    {
+        "name": "Cabbage",
+        "category": "vegetables",
+        "description": "Cabbage, comprising several cultivars of Brassica oleracea, is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads.",
+        "price": 180,
+        "discount": 55,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/6-cabbage-png-image.png"
+    },
+    {
+        "name": "Chili Peppers",
+        "category": "vegetables",
+        "description": "Chili peppers (also chile, chile pepper, chilli pepper, or chilli), from Nahuatl chīlli, are varieties of the berry-fruit of plants from the genus Capsicum, which are members of the nightshade family Solanaceae, cultivated for their pungency.",
+        "price": 130,
+        "discount": 10,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/37-red-chili-pepper-png-image.png"
+    },
+    {
+        "name": "Potato",
+        "category": "vegetables",
+        "description": "potato is a starchy food, a tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. The plant is a perennial in the nightshade family Solanaceae.",
+        "price": 30,
+        "discount": 4,
+        "image_URL": "https://github.com/deep-pansara/fruit-and-vegetable-website/blob/master/images/fruits/7-potato-png-images-pictures-download.png"
+    },
+    {
+        "name": "Onion",
+        "category": "vegetables",
+        "description": "Onion (Allium cepa L., from Latin cepa meaning onion), also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium.",
+        "price": 30,
+        "discount": 16,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/8-onion-png-image.png"
+    },
+    {
+        "name": "Tomato",
+        "category": "vegetables",
+        "description": "Tomato is regarded as a vegetable, its fruit is classified botanically as a berry. As a true fruit, it develops from the ovary of the plant after fertilization, its flesh comprising the pericarp walls",
+        "price": 80,
+        "discount": 23,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/6-tomato-png-image.png"
+    }
+]

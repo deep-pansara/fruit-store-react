@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Cheese",
+        "category": "dairyproducts",
+        "description": " Cheese is a dairy product produced in wide ranges of flavors, textures, and forms by coagulation of the milk protein casein.",
+        "price": 400,
+        "discount": 10,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/cheese.png"
+    },
+    {
+        "name": "Butter Milk",
+        "category": "dairyproducts",
+        "description": "Buttermilk is a fermented dairy drink that originated as the liquid left behind after churning butter out of cultured cream",
+        "price": 40,
+        "discount": 15,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/buttermilk.png"
+    },
+    {
+        "name": "Milk",
+        "category": "dairyproducts",
+        "description": "Milk is a white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for young mammals (including breastfed human infants) before they are able to digest solid food.",
+        "price": 55,
+        "discount": 23,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/milk.png"
+    },
+    {
+        "name": "Butter",
+        "category": "dairyproducts",
+        "description": "Butter is a dairy product made from the fat and protein components of churned cream.It is a semi-solid emulsion at room temperature, consisting of approximately 80% butterfat",
+        "price": 500,
+        "discount": 20,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/better.png"
+    },
+    {
+        "name": "Yogurt",
+        "category": "dairyproducts",
+        "description": "Yogurt, also known as yoghurt, yogourt, or yoghourt, is a dairy product made by bacterial fermentation of milk",
+        "price": 180,
+        "discount": 5,
+        "image_URL": "https://raw.githubusercontent.com/deep-pansara/fruit-and-vegetable-website/master/images/fruits/yogurt.png"
+    }
+]
